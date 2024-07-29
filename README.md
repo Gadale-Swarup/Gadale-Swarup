@@ -1,3 +1,4 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Myself Swarup Anant Gadale
 # 💫 About Me:
 🔭 I’m currently working on Full-stack applications utilizing MongoDB, Express.js, React, and Node.js.<br>👯 I’m looking to collaborate on Open-source initiatives that benefit from cutting-edge frontend and backend development.<br>🤝 I’m looking for help with Optimizing performance and scaling MERN applications.<br>🌱 I’m currently learning Advanced React concepts such as hooks, context API, and server-side rendering.<br>💬 Ask me about My approach to building scalable applications using the MERN stack.<br>
 
