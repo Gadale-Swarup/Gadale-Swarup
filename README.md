@@ -33,7 +33,7 @@ MERN Stack Developer
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b> 
 
 <a href="http://www.github.com/gadale-swarup"><img src="https://github-readme-stats.vercel.app/api?username=gadale-swarup&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=64748b&bg_color=1c1917&hide_border=true&show_icons=true" alt="gadale-swarup's GitHub stats" /></a>
 
